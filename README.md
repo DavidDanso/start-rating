@@ -1,9 +1,8 @@
-```
 # Star Rating App
 
 ## Description
 
-The Star Rating App is a dynamic project built on React, a popular JavaScript library for building user interfaces. This application allows users to rate a movie in a versatile and visually appealing way.
+The Star Rating App is a dynamic project built on React. This application allows users to rate a movie in a versatile and visually appealing way.
 
 ## Getting Started
 
@@ -72,5 +71,3 @@ Detailed usage description go here.
 DavidDanso - davidkellybrownson@gmail.com
 
 Project Link: [https://github.com/DavidDanso/start-rating.git](https://github.com/DavidDanso/start-rating.git)
-
-```
